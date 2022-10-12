@@ -4,5 +4,5 @@
 
 int main()
 {
-	printf("Git‚ÌƒeƒXƒg‚Å‚·\n");
+	printf("Hello VisualStudio Git\n");
 }
