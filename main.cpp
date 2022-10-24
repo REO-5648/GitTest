@@ -8,6 +8,8 @@ int main()
 
 	printf("新規ブランチでこの行を追加\n");
 
-	printf("sourceTreeのクローンを作成");
+	printf("sourceTreeのクローンを作成\n");
+
+	printf("GitTestのクローンを作成\n");
 
 }
